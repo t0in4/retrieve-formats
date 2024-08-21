@@ -1,7 +1,7 @@
 # api token authorization and obtain data from site 
 ht tps://api.zamzar.com/v1/formats  
-Register and get api token from https://developers.zamzar.com/
-Android Studio JellyFish
+Register and get api token from https://developers.zamzar.com/  
+Wokring environment is Android Studio JellyFish
 1. Used JetPack Compose
 2. Retrofit2 
 3. OkHttp accessToken authorization
