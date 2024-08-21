@@ -1,4 +1,4 @@
-# api token authorization and obtain data from site https://api.zamzar.com/v1/formats
+# api token authorization and obtain data from site ->https://api.zamzar.com/v1/formats
 Register and get api token from https://developers.zamzar.com/
 Android Studio JellyFish
 1. Used JetPack Compose
